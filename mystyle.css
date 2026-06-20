@@ -237,13 +237,13 @@ body {
 }
 
 .menu-icon {
-     display:block;
+     display:none;
      font-size: 30px;
      cursor: pointer;
 }
 @media screen and (max-width: 786px) { 
     .menu-icon {
-     display: none;
+     display: block;
     }
  #navMenu {
     display: none;
